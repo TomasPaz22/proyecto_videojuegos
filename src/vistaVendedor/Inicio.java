@@ -55,7 +55,7 @@ public class Inicio extends javax.swing.JFrame {
 
         JB_Ingresar.setBackground(new java.awt.Color(255, 153, 255));
         JB_Ingresar.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
-        JB_Ingresar.setText("Ingresar");
+        JB_Ingresar.setText("Ingresaruuuuu");
         JB_Ingresar.setToolTipText("");
         JB_Ingresar.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         JB_Ingresar.setContentAreaFilled(false);

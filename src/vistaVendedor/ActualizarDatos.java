@@ -26,7 +26,6 @@ public class ActualizarDatos extends javax.swing.JFrame {
         jB_Regresar = new javax.swing.JButton();
         jL_FondoMorado = new javax.swing.JLabel();
         jB_ListaUsuarios = new javax.swing.JButton();
-        jB_ActualizarDatos1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setUndecorated(true);
@@ -133,24 +132,6 @@ public class ActualizarDatos extends javax.swing.JFrame {
         });
         jPanel1.add(jB_ListaUsuarios, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 130, 200, 60));
 
-        jB_ActualizarDatos1.setBackground(new java.awt.Color(255, 153, 255));
-        jB_ActualizarDatos1.setFont(new java.awt.Font("Calisto MT", 0, 18)); // NOI18N
-        jB_ActualizarDatos1.setText("Actualizar datos");
-        jB_ActualizarDatos1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jB_ActualizarDatos1.setContentAreaFilled(false);
-        jB_ActualizarDatos1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        jB_ActualizarDatos1.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jB_ActualizarDatos1MouseClicked(evt);
-            }
-        });
-        jB_ActualizarDatos1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jB_ActualizarDatos1ActionPerformed(evt);
-            }
-        });
-        jPanel1.add(jB_ActualizarDatos1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 320, 200, 60));
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -212,14 +193,6 @@ public class ActualizarDatos extends javax.swing.JFrame {
         
     }//GEN-LAST:event_jB_ListaUsuariosActionPerformed
 
-    private void jB_ActualizarDatos1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jB_ActualizarDatos1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jB_ActualizarDatos1ActionPerformed
-
-    private void jB_ActualizarDatos1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jB_ActualizarDatos1MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jB_ActualizarDatos1MouseClicked
-
     /**
      * @param args the command line arguments
      */
@@ -256,7 +229,6 @@ public class ActualizarDatos extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jB_ActualizarDatos1;
     private javax.swing.JButton jB_ListaUsuarios;
     private javax.swing.JButton jB_Regresar;
     private javax.swing.JLabel jL_FondoMorado;

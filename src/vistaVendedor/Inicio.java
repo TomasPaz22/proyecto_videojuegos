@@ -69,7 +69,7 @@ public class Inicio extends javax.swing.JFrame {
 
         JB_CrearCuenta.setBackground(new java.awt.Color(255, 153, 255));
         JB_CrearCuenta.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
-        JB_CrearCuenta.setText("Crear");
+        JB_CrearCuenta.setText("Crearr");
         JB_CrearCuenta.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         JB_CrearCuenta.setContentAreaFilled(false);
         JB_CrearCuenta.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));

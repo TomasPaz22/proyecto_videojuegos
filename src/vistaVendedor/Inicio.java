@@ -54,7 +54,7 @@ public class Inicio extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         JB_Ingresar.setBackground(new java.awt.Color(255, 153, 255));
-        JB_Ingresar.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
+        JB_Ingresar.setFont(new java.awt.Font("Modern No. 20", 0, 24)); // NOI18N
         JB_Ingresar.setText("Ingresar");
         JB_Ingresar.setToolTipText("");
         JB_Ingresar.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -65,7 +65,7 @@ public class Inicio extends javax.swing.JFrame {
                 JB_IngresarActionPerformed(evt);
             }
         });
-        jPanel1.add(JB_Ingresar, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 100, 190, 50));
+        jPanel1.add(JB_Ingresar, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 220, 190, 50));
 
         JB_CrearCuenta.setBackground(new java.awt.Color(255, 153, 255));
         JB_CrearCuenta.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
@@ -78,7 +78,7 @@ public class Inicio extends javax.swing.JFrame {
                 JB_CrearCuentaActionPerformed(evt);
             }
         });
-        jPanel1.add(JB_CrearCuenta, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 170, 190, 50));
+        jPanel1.add(JB_CrearCuenta, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 220, 190, 50));
 
         JB_ActualizarDatos.setBackground(new java.awt.Color(255, 153, 255));
         JB_ActualizarDatos.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
@@ -92,7 +92,7 @@ public class Inicio extends javax.swing.JFrame {
                 JB_ActualizarDatosActionPerformed(evt);
             }
         });
-        jPanel1.add(JB_ActualizarDatos, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 310, 190, 50));
+        jPanel1.add(JB_ActualizarDatos, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 410, 190, 50));
 
         JB_EliminarCuenta.setBackground(new java.awt.Color(255, 153, 255));
         JB_EliminarCuenta.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
@@ -106,7 +106,7 @@ public class Inicio extends javax.swing.JFrame {
                 JB_EliminarCuentaActionPerformed(evt);
             }
         });
-        jPanel1.add(JB_EliminarCuenta, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 240, 190, 50));
+        jPanel1.add(JB_EliminarCuenta, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 420, 190, 50));
 
         jP_Barra.setBackground(new java.awt.Color(204, 204, 204));
         jP_Barra.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {

@@ -96,7 +96,7 @@ public class Inicio extends javax.swing.JFrame {
 
         JB_EliminarCuenta.setBackground(new java.awt.Color(255, 153, 255));
         JB_EliminarCuenta.setFont(new java.awt.Font("Calisto MT", 0, 24)); // NOI18N
-        JB_EliminarCuenta.setText("Eliminar");
+        JB_EliminarCuenta.setText("Eliminar222");
         JB_EliminarCuenta.setActionCommand("");
         JB_EliminarCuenta.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         JB_EliminarCuenta.setContentAreaFilled(false);
